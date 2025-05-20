@@ -166,8 +166,8 @@ p.note { display: none; }
 <h2><span class="yellow">雨なので猫ちゃんはお家の中でまったり〜</span></h2>
 <a href="20250520_012.JPG" target="_blank"><img src="20250520_012.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">岡本エリアは再開発で、ここにはショッピングモールが出来る予定</span></h2>
-<a href="20250520_013.JPG" target="_blank"><img src="20250520_013.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">岡本エリアは再開発で、ここにはショッピングモールが出来る予定<br>画像クリックでGoogleMapsを表示します↓</span></h2>
+<a href="https://maps.app.goo.gl/741UoGsQzfve1L696" target="_blank"><img src="20250520_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250520_014.JPG" target="_blank"><img src="20250520_014.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">雨も上がって、近所のお花たちも満開です</span></h2>
